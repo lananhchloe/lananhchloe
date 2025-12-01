@@ -5,8 +5,8 @@ I’m an International Economics student who vibes with finance, data, and all t
 
 Here’s what I’m into these days:
 
-- 💸 Currently working on: finance-oriented data projects + my minimalist portfolio website  
-- 📈 Learning: Python, SQL, CFA, and how to make my code look as clean as my spreadsheets  
+- 💸 Currently working on: finance-oriented projects + my minimalist portfolio website  
+- 📈 Learning: Python, SQL and CFA
 - 🤝 Open to collaborate on: fintech ideas, data analysis, and anything that mixes numbers with innovation  
 - 💬 Ask me about: underground economy models, financial data storytelling, or building study-friendly workflows  
 - 😄 Pronouns: she/her  
